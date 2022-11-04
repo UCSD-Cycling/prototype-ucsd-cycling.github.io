@@ -1,16 +1,17 @@
 # Site
 name: "UCSD Cycling"
 title: "UCSD Cycling"
-description: "Public-facing website for the University of California, San Diego's Cycling Team"
-logo: 'assets/images/logo.png'
-favicon: 'assets/images/logo.png'
+description: "New Official website for the UC San Diego Cycling Team"
+logo: 'assets/images/ucsdCyclingLogo.png'
+favicon: 'assets/images/ucsdCyclingLogo.png'
 baseurl: ''
-google_analytics: ''
-disqus: ''
-mailchimp-list: ''
+url: "https://ucsd-cycling.github.io/"
+#google_analytics: ''
+#disqus: ''
+#mailchimp-list: ''
 include: ["_pages"]
 permalink: /:title/
-email: lsheltraw@ucsd.edu
+email: theucsdcyclingteam@gmail.com
 
 # Authors
 authors:
@@ -19,6 +20,14 @@ authors:
     display_name: Luke
     avatar: ''
     email: lsheltraw@ucsd.edu
+    web: ''
+    twitter: ''
+    description: ''
+  dennis:
+    name: Dennis Liang
+    display_name: Dennis
+    avatar: ''
+    email: dbliang@ucsd.edu
     web: ''
     twitter: ''
     description: ''
