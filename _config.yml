@@ -5,10 +5,7 @@ description: "New Official website for the UC San Diego Cycling Team"
 logo: 'assets/images/ucsdCyclingLogo.png'
 favicon: 'assets/images/ucsdCyclingLogo.png'
 baseurl: ''
-url: "https://ucsd-cycling.github.io/"
-#google_analytics: ''
-#disqus: ''
-#mailchimp-list: ''
+url: "https://ucsdcycling.github.io/"
 include: ["_pages"]
 permalink: /:title/
 email: theucsdcyclingteam@gmail.com
@@ -21,7 +18,6 @@ authors:
     avatar: ''
     email: lsheltraw@ucsd.edu
     web: ''
-    twitter: ''
     description: ''
   dennis:
     name: Dennis Liang
@@ -29,7 +25,6 @@ authors:
     avatar: ''
     email: dbliang@ucsd.edu
     web: ''
-    twitter: ''
     description: ''
 
 # Plugins
